@@ -1,0 +1,37 @@
+[
+  {
+    "receiver": "Tesco Market",
+    "type": "Shopping",
+    "date": "13 Dec 2020",
+    "amount": "$75.67",
+    "icon": "shopping-cart"
+  },
+  {
+    "receiver": "ElectroMen Market",
+    "type": "Shopping",
+    "date": "14 Dec 2020",
+    "amount": "$250.00",
+    "icon": "truck"
+  },
+  {
+    "receiver": "Fiorgio Restaurant",
+    "type": "Food",
+    "date": "07 Dec 2020",
+    "amount": "$19.50",
+    "icon": "food"
+  },
+  {
+    "receiver": "John Mathew Kayne",
+    "type": "Sport",
+    "date": "06 Dec 2020",
+    "amount": "$350",
+    "icon": "person"
+  },
+  {
+    "receiver": "Ann Marlin",
+    "type": "Shopping",
+    "date": "31 Nov 2020",
+    "amount": "$430",
+    "icon": "person"
+  }
+]

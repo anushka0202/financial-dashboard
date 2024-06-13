@@ -1,0 +1,23 @@
+[
+  {
+    "category": "Shopping",
+    "percentage": 52,
+    "color": "linear-gradient(270deg, #FCAE73 0%, #F79042 99.18%)",
+    "icon": "shopping_cart",
+    "bgColor": "#FFEADA"
+  },
+  {
+    "category": "Electronics",
+    "percentage": 21,
+    "color": "linear-gradient(90deg, #209D43 0%, #2BC255 100%)",
+    "icon": "local_shipping",
+    "bgColor": "#DDF9E4"
+  },
+  {
+    "category": "Travels",
+    "percentage": 74,
+    "color": "#70A6E8",
+    "icon": "flight",
+    "bgColor": "#E4F0FF"
+  }
+]

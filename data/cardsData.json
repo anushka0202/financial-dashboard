@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "cloudcash",
+    "type": "PREMIUM ACCOUNT",
+    "number": "5789 **** **** 2847",
+    "holder": "Mike Smith",
+    "expiry": "06/21",
+    "balance": 2850.75,
+    "income": 1500.50,
+    "outcome": 350.60,
+    "limit": 4000.00,
+    "weeklyPayment": 350.60
+  }
+]

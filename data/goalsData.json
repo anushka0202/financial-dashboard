@@ -1,0 +1,23 @@
+[
+  {
+    "amount": "$550",
+    "date": "12/20/20",
+    "title": "Holidays",
+    "icon": "holidays",
+    "color": "text-blue-500"
+  },
+  {
+    "amount": "$200",
+    "date": "12/20/20",
+    "title": "Renovation",
+    "icon": "renovation",
+    "color": "text-orange-500"
+  },
+  {
+    "amount": "$820",
+    "date": "12/20/20",
+    "title": "Xbox",
+    "icon": "xbox",
+    "color": "text-green-500"
+  }
+]
